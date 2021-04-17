@@ -1,0 +1,26 @@
+h1 strong{
+    color: red;
+}
+div p a:link{
+    color: black
+}
+
+#ultimo li p{
+    color: yellow;
+}
+
+#importante{
+    color: green;
+}
+
+#importante h1{
+    color: red;
+}
+
+h1[title]{
+    color: blue;
+}
+
+ol li a{
+    text-decoration: none;
+}
